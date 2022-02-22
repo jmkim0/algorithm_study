@@ -1,0 +1,16 @@
+a = input()
+b = input()
+n = len(a)
+m = len(b)
+table = [['' for _ in range(m+1)] for _ in range(n+1)]
+for i in range(1, n+1):
+    for j in range(1, m+1):
+        if a[i-1] == b[j-1]:
+            table[i][j] = table[i-1][j-1] + a[i-1]
+        else:
+            table[i][j] = table[i-1][j]
+            if len(table[i][j]) < len(table[i][j-1]):
+                table[i][j] = table[i][j-1]
+print(len(table[n][m]))
+if table[n][m]:
+    print(table[n][m])
