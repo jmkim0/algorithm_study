@@ -1,5 +1,5 @@
 # Algorithm Study
-알고리즘 공부한 흔적을 남기는 repository입니다.
+알고리즘 공부한 흔적을 남기는 repository
 ## /baekjoon
 [Baekjoon Online Judge](https://www.acmicpc.net/)의 문제를 풀고 코드를 저장  
 ## /weekly_study_group
