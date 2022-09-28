@@ -51,7 +51,6 @@ memoization을 사용하여 혹시나 같은 문자열이 들어오는 경우 �
 [난이도 상] 광부 도도새
 ---
 [0826] 실시간 문제풀이 특강에서 다룬 문제입니다.  
-[GitLab](https://yeardream-gitlab.elice.io/test-answer/special/-/blob/main/%5B0826%5D%20%EA%B9%80%EA%B2%BD%EB%AF%BC%20%EA%B0%95%EC%82%AC%EB%8B%98%20%ED%8A%B9%EA%B0%95%20%EC%9E%90%EB%A3%8C/03_%EA%B4%91%EB%B6%80%20%EB%8F%84%EB%8F%84%EC%83%88.py)에도 업로드되어 있네요.
 
 <br><br>
 
